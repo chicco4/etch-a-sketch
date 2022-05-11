@@ -1,3 +1,5 @@
+/*https://www.theodinproject.com/lessons/foundations-etch-a-sketch*/
+
 const DEFAULT_COLOR = '#333333'
 const DEFAULT_MODE = 'color'
 const DEFAULT_SIZE = 16
