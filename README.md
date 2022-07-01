@@ -1,4 +1,4 @@
 # etch-a-sketch
-Etch a sketch game created with HTML, CSS and JS.
+A simple etch-a-sketch game built with html, css and javascript.
 
 [Live Demo](https://chicco4.github.io/etch-a-sketch/) :point_left:
